@@ -1,8 +1,13 @@
 import React from "react";
 import { Grid, Typography, Box, Button } from "@material-ui/core";
-import AssignmentIcon from '@material-ui/icons/Assignment';
+import AssignmentIcon from "@material-ui/icons/Assignment";
 
 const Encuesta = () => {
+  function reDirectEncuesta() {
+    window.location.href =
+      "https://docs.google.com/forms/d/e/1FAIpQLSc5Hw-n1riMhs0CXvIGas68qkUJIihrFwGy74AOkCXN4rR6hw/viewform";
+  }
+
   return (
     <>
       <Grid
@@ -35,8 +40,15 @@ const Encuesta = () => {
         alignItems="center"
         style={{ marginTop: 80 }}
       >
-        <Button variant="contained" size="medium" startIcon={<AssignmentIcon />}>Realiza Esta Encuesta</Button>
-      </Grid>   
+        <Button
+          variant="contained"
+          size="medium"
+          startIcon={<AssignmentIcon />}
+          onClick={reDirectEncuesta}
+        >
+          Realiza Esta Encuesta
+        </Button>
+      </Grid>
     </>
   );
 };
