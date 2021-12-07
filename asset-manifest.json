@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ChicasSuperpoderosasMainPage/static/css/main.bab0b925.chunk.css",
-    "main.js": "/ChicasSuperpoderosasMainPage/static/js/main.88ca0168.chunk.js",
-    "main.js.map": "/ChicasSuperpoderosasMainPage/static/js/main.88ca0168.chunk.js.map",
+    "main.js": "/ChicasSuperpoderosasMainPage/static/js/main.60d977b1.chunk.js",
+    "main.js.map": "/ChicasSuperpoderosasMainPage/static/js/main.60d977b1.chunk.js.map",
     "runtime-main.js": "/ChicasSuperpoderosasMainPage/static/js/runtime-main.7d3f237c.js",
     "runtime-main.js.map": "/ChicasSuperpoderosasMainPage/static/js/runtime-main.7d3f237c.js.map",
     "static/js/2.75dd2965.chunk.js": "/ChicasSuperpoderosasMainPage/static/js/2.75dd2965.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.7d3f237c.js",
     "static/js/2.75dd2965.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.88ca0168.chunk.js"
+    "static/js/main.60d977b1.chunk.js"
   ]
 }
